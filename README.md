@@ -11,13 +11,12 @@ This project aims to develop an ATM simulator that modernizes a previous version
 The main objectives of this project are:
 
 - Interpret specifications and conduct analysis.
-- Design a solution based on requirements and specifications.
 - Develop the required logic for an object-oriented solution.
 - Read from and write to a database.
 - Utilize troubleshooting tools and error handling techniques.
 - Validate the solution through testing.
 - Integrate knowledge acquired during training.
-- Create an object-oriented application while enjoying the process.
+- Create an object-oriented application
 
 
 ### Functional Specifications
