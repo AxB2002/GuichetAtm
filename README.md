@@ -4,7 +4,7 @@
 
 ### Description
 
-This project aims to develop an ATM simulator that modernizes a previous version of the application. The goal is to demonstrate skills in analysis, design, object-oriented development, and testing.
+This project aims to develop an ATM simulator using C# that modernizes a previous version of the application. It incorporates a MySQL database and features a graphical user interface that connects various views and models. The goal is to demonstrate skills in analysis, design, object-oriented development, and testing.
 
 ### Objectives
 
@@ -14,6 +14,13 @@ The main objectives of this project are:
 - Develop the required logic for an object-oriented solution and make it available to clients.
 - Utilize troubleshooting tools and error handling techniques.
 - Validate the solution through testing.
+
+### Technologies Used
+
+- **Programming Language**: C#
+- **Database**: MySQL
+- **Development Approach**: Object-oriented
+- **User Interface**: Simple interface design
 
 
 ### Functional Specifications
@@ -81,10 +88,3 @@ An administrator can:
 - **Database**: MySQL
 - **Development Approach**: Object-oriented
 - **User Interface**: Simple interface design
-
-
-### Installation
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/AxB2002/GuichetAtm.git
