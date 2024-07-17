@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="adminControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="panel_Account_create.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_add_to_atm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_bill_payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_customer_create.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_deposit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Panel_Increase_loc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_Manage_Acccess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_pay_Interest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_show_balance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_Transfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_userWithdraw.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_View_Transactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="panel_WithdrawMoney.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserOptions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,106 @@
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.exe
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.deps.json
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.runtimeconfig.json
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.pdb
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.Form1.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.GenerateResource.cache
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.AssemblyInfoInputs.cache
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.AssemblyInfo.cs
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.CoreCompileInputs.cache
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.dll
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\refint\ATM1.dll
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.pdb
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.genruntimeconfig.cache
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ref\ATM1.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.AssemblyReference.cache
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.Up2Date
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.MainMenu.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.Panel_Increase_loc.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_Account_create.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_add_to_atm.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_customer_create.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_Manage_Acccess.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_pay_Interest.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_View_Transactions.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_WithdrawMoney.resources
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Other Work\VS\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.adminControl.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.UserOptions.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_deposit.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_bill_payment.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_show_balance.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_Transfer.resources
+D:\Other Work\VS\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_userWithdraw.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.exe
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.deps.json
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.runtimeconfig.json
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\ATM1.pdb
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\MySql.Data.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\ZstdSharp.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.AssemblyReference.cache
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.adminControl.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.Form1.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.MainMenu.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_Account_create.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_add_to_atm.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_bill_payment.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_customer_create.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_deposit.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.Panel_Increase_loc.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_Manage_Acccess.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_pay_Interest.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_show_balance.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_Transfer.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_userWithdraw.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_View_Transactions.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.panel_WithdrawMoney.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.UserOptions.resources
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.GenerateResource.cache
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.AssemblyInfoInputs.cache
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.AssemblyInfo.cs
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.CoreCompileInputs.cache
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.csproj.Up2Date
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\refint\ATM1.dll
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.pdb
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ATM1.genruntimeconfig.cache
+G:\CDI\420-DGP-ID == Gestion de Projet\ADAM_BRILLON - Projet Int. 1\GuichetAtm\ATM1\ATM1\obj\Debug\net8.0-windows\ref\ATM1.dll

@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_show_balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_show_balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_show_balance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_show_balance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_userwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_userwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_view_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_view_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_manage_acccess.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_manage_acccess.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_add_to_atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_add_to_atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_account_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_account_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_view_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_view_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\lineofcreditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\lineofcreditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\mortgageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\mortgageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_userwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_userwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_manage_acccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_manage_acccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_manage_acccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_manage_acccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_bill_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_bill_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_bill_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_bill_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_add_to_atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_add_to_atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_bill_payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_bill_payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|g:\\cdi\\420-dgp-id == gestion de projet\\adam_brillon - projet int. 1\\guichetatm\\atm1\\atm1\\panel_show_balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_show_balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\atm1\\panel_show_balance.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{71A5F7A1-26B9-402D-BF28-1C03768EFF44}|ATM1\\ATM1.csproj|solutionrelative:atm1\\panel_show_balance.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 243,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "adminControl.cs [Design]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\adminControl.cs",
+              "RelativeDocumentMoniker": "ATM1\\adminControl.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\adminControl.cs [Design]",
+              "RelativeToolTip": "ATM1\\adminControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:43:13.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "panel_Manage_Acccess.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Manage_Acccess.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_Manage_Acccess.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Manage_Acccess.cs",
+              "RelativeToolTip": "ATM1\\panel_Manage_Acccess.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:32:33.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "panel_add_to_atm.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_add_to_atm.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_add_to_atm.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_add_to_atm.cs",
+              "RelativeToolTip": "ATM1\\panel_add_to_atm.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowEkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:09:42.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\UserContext.cs",
+              "RelativeDocumentMoniker": "ATM1\\UserContext.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\UserContext.cs",
+              "RelativeToolTip": "ATM1\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:04:41.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\Program.cs",
+              "RelativeDocumentMoniker": "ATM1\\Program.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\Program.cs",
+              "RelativeToolTip": "ATM1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:17:53.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "panel_show_balance.Designer.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.Designer.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_show_balance.Designer.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.Designer.cs",
+              "RelativeToolTip": "ATM1\\panel_show_balance.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:16:27.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "panel_show_balance.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_show_balance.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.cs",
+              "RelativeToolTip": "ATM1\\panel_show_balance.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:15:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "panel_View_Transactions.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_View_Transactions.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_View_Transactions.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_View_Transactions.cs",
+              "RelativeToolTip": "ATM1\\panel_View_Transactions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:15:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LineOfCreditAccount.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\LineOfCreditAccount.cs",
+              "RelativeDocumentMoniker": "ATM1\\LineOfCreditAccount.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\LineOfCreditAccount.cs",
+              "RelativeToolTip": "ATM1\\LineOfCreditAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:00:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "panel_bill_payment.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_bill_payment.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_bill_payment.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_bill_payment.cs",
+              "RelativeToolTip": "ATM1\\panel_bill_payment.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:56:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "panel_bill_payment.Designer.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_bill_payment.Designer.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_bill_payment.Designer.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_bill_payment.Designer.cs",
+              "RelativeToolTip": "ATM1\\panel_bill_payment.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:54:54.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "panel_Transfer.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Transfer.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_Transfer.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Transfer.cs",
+              "RelativeToolTip": "ATM1\\panel_Transfer.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAgwIsAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:18:16.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MortgageAccount.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\MortgageAccount.cs",
+              "RelativeDocumentMoniker": "ATM1\\MortgageAccount.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\MortgageAccount.cs",
+              "RelativeToolTip": "ATM1\\MortgageAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:11:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\Customer.cs",
+              "RelativeDocumentMoniker": "ATM1\\Customer.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\Customer.cs",
+              "RelativeToolTip": "ATM1\\Customer.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAqwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:10:51.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\Account.cs",
+              "RelativeDocumentMoniker": "ATM1\\Account.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\Account.cs",
+              "RelativeToolTip": "ATM1\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:53:50.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "panel_userWithdraw.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_userWithdraw.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_userWithdraw.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_userWithdraw.cs",
+              "RelativeToolTip": "ATM1\\panel_userWithdraw.cs",
+              "ViewState": "AQIAACUBAAAAAAAAAAAQwCwBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:03:09.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminControl.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\adminControl.cs",
+              "RelativeDocumentMoniker": "ATM1\\adminControl.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\adminControl.cs",
+              "RelativeToolTip": "ATM1\\adminControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:44:36.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "panel_Account_create.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Account_create.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_Account_create.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Account_create.cs",
+              "RelativeToolTip": "ATM1\\panel_Account_create.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAawDsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:31:28.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "panel_Manage_Acccess.Designer.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Manage_Acccess.Designer.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_Manage_Acccess.Designer.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Manage_Acccess.Designer.cs",
+              "RelativeToolTip": "ATM1\\panel_Manage_Acccess.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:32:40.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "panel_deposit.cs",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_deposit.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_deposit.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_deposit.cs",
+              "RelativeToolTip": "ATM1\\panel_deposit.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAkwFUAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:02:41.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "panel_Manage_Acccess.cs [Design]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Manage_Acccess.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_Manage_Acccess.cs",
+              "ToolTip": "D:\\Other Work\\VS\\ATM1\\ATM1\\panel_Manage_Acccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:32:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "panel_add_to_atm.cs [Design]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_add_to_atm.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_add_to_atm.cs",
+              "ToolTip": "D:\\Other Work\\VS\\ATM1\\ATM1\\panel_add_to_atm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:09:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "panel_bill_payment.cs [Design]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_bill_payment.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_bill_payment.cs",
+              "ToolTip": "D:\\Other Work\\VS\\ATM1\\ATM1\\panel_bill_payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:23:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "panel_show_balance.resx",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.resx",
+              "RelativeDocumentMoniker": "ATM1\\panel_show_balance.resx",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.resx",
+              "RelativeToolTip": "ATM1\\panel_show_balance.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-14T18:16:24.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "panel_View_Transactions.cs [Conception]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_View_Transactions.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_View_Transactions.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_View_Transactions.cs [Conception]",
+              "RelativeToolTip": "ATM1\\panel_View_Transactions.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:15:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "panel_show_balance.cs [Conception]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_show_balance.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_show_balance.cs [Conception]",
+              "RelativeToolTip": "ATM1\\panel_show_balance.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:14:29.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "panel_Transfer.cs [Design]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_Transfer.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_Transfer.cs",
+              "ToolTip": "D:\\Other Work\\VS\\ATM1\\ATM1\\panel_Transfer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:16:40.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "panel_userWithdraw.cs [Conception]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_userWithdraw.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_userWithdraw.cs",
+              "ToolTip": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_userWithdraw.cs [Conception]",
+              "RelativeToolTip": "ATM1\\panel_userWithdraw.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:03:03.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "panel_deposit.cs [Design]",
+              "DocumentMoniker": "G:\\CDI\\420-DGP-ID == Gestion de Projet\\ADAM_BRILLON - Projet Int. 1\\GuichetAtm\\ATM1\\ATM1\\panel_deposit.cs",
+              "RelativeDocumentMoniker": "ATM1\\panel_deposit.cs",
+              "ToolTip": "D:\\Other Work\\VS\\ATM1\\ATM1\\panel_deposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:02:37.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
