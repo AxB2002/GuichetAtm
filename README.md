@@ -6,6 +6,8 @@
 
 This project aims to develop an ATM simulator using C# that modernizes a previous version of the application. It incorporates a MySQL database and features a graphical user interface that connects various views and models. The goal is to demonstrate skills in analysis, design, object-oriented development, and testing.
 
+---
+
 ### Objectives
 
 The main objectives of this project are:
@@ -22,6 +24,7 @@ The main objectives of this project are:
 - **Development Approach**: Object-oriented
 - **User Interface**: Simple interface design
 
+---
 
 ### Functional Specifications
 
