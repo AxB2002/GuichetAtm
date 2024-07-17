@@ -11,12 +11,9 @@ This project aims to develop an ATM simulator that modernizes a previous version
 The main objectives of this project are:
 
 - Interpret specifications and conduct analysis.
-- Develop the required logic for an object-oriented solution.
-- Read from and write to a database.
+- Develop the required logic for an object-oriented solution and make it available to clients.
 - Utilize troubleshooting tools and error handling techniques.
 - Validate the solution through testing.
-- Integrate knowledge acquired during training.
-- Create an object-oriented application
 
 
 ### Functional Specifications
@@ -85,13 +82,6 @@ An administrator can:
 - **Development Approach**: Object-oriented
 - **User Interface**: Simple interface design
 
-### Data Model
-
-Plan the data model before development and get it approved by the instructor. Identify primary keys and relationships between tables that will become the project's classes.
-
-### User Interface
-
-Design user interfaces and have them approved by the instructor before proceeding with development.
 
 ### Installation
 
