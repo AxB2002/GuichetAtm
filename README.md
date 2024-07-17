@@ -87,4 +87,4 @@ An administrator can:
 
 1. Clone this repository:  
    ```bash
-   git clone [https://github.com/AxB2002/GuichetAtm.git]
+   git clone https://github.com/AxB2002/GuichetAtm.git
